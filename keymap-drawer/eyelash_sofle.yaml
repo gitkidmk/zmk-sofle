@@ -59,7 +59,7 @@ layers:
   - $$mdi:keyboard-space$$
   - layer1
   - HOME
-  - _
+  - {t: '$$mdi:backspace$$', type: backspace}
   - $$mdi:keyboard-space$$
   - '2'
   - $$mdi:apple-keyboard-option$$
@@ -116,7 +116,7 @@ layers:
   - Ins
   - {t: '$$mdi:transfer$$', type: trans}
   - {t: '$$mdi:transfer$$', type: trans}
-  - {t: '$$mdi:transfer$$', type: trans}
+  - _
   - $$mdi:volume-off$$
   - {t: '$$mdi:transfer$$', type: trans}
   - {t: '$$mdi:transfer$$', type: trans}
