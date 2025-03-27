@@ -1,3 +1,4 @@
+layout: {zmk_keyboard: eyelash_sofle}
 layers:
   LAYER0:
   - $$mdi:keyboard-esc$$
@@ -116,7 +117,7 @@ layers:
   - Ins
   - {t: '$$mdi:transfer$$', type: trans}
   - {t: '$$mdi:transfer$$', type: trans}
-  - _
+  - '|'
   - $$mdi:volume-off$$
   - {t: '$$mdi:transfer$$', type: trans}
   - {t: '$$mdi:transfer$$', type: trans}
